@@ -1,0 +1,70 @@
+[
+    {
+        "employeeID": 12345,
+        "name": "Brynn Moore",
+        "salary":900000,
+        "department":"IT"
+    },
+
+    {
+        "employeeID": 23456,
+        "name": "Hassan Niang",
+        "salary":950000,
+        "department":"IT"
+    },
+
+    {
+        "employeeID": 34567,
+        "name": "Chastity Matthews",
+        "salary":890000,
+        "department":"HR"
+    },
+
+    {
+        "employeeID": 45678,
+        "name": "Brenda Manon",
+        "salary":700000,
+        "department":"HR"
+    },
+
+    {
+        "employeeID": 56789,
+        "name": "Benjamin Bennet",
+        "salary":800000,
+        "department":"HR"
+    },
+
+    {
+        "employeeID": 937478,
+        "name": "Reggie Cheston",
+        "salary":999000,
+        "department":"IT"
+    },
+
+    {
+        "employeeID": 22222,
+        "name": "Cristian Mosqueda",
+        "salary":890000,
+        "department":"HR"
+    },
+
+    {
+        "employeeID": 77777,
+        "name": "Michelle Williams",
+        "salary":800000,
+        "department":"IT"
+    },
+
+    {
+        "employeeID": 11111,
+        "name": "Kelly Rowland",
+        "salary":650000,
+        "department":"Entertainment"
+    },
+    {
+        "employeeID": 11122,
+        "name": "Beyonce Knowles",
+        
+        "department":"Entertainment"
+}
+]
