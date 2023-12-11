@@ -1,5 +1,5 @@
 
-
+// Imports fs and path
 const fs = require('fs');
 const path = require('path');
 
